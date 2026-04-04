@@ -5,16 +5,15 @@ title: Contact
 
 <style>
 .contact-header {
-  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
   color: white;
   border-radius: 15px;
   padding: 40px;
   margin-bottom: 30px;
   text-align: center;
-  box-shadow: 0 5px 20px rgba(0,0,0,0.2);
 }
 .contact-header h1 { font-size: 32px; margin-bottom: 10px; }
-.contact-header p { color: #ccc; font-size: 16px; }
+.contact-header p { color: #aaa; font-size: 16px; }
 
 .contact-cards {
   display: grid;
@@ -26,7 +25,7 @@ title: Contact
   border-radius: 15px;
   padding: 30px;
   text-align: center;
-  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+  box-shadow: 0 3px 15px rgba(0,0,0,0.08);
   transition: transform 0.3s ease;
 }
 .contact-card:hover { transform: translateY(-5px); }
@@ -54,17 +53,14 @@ title: Contact
 
 <div class="contact-card">
 <h3>💬 WhatsApp</h3>
-<p><a href="https://wa.me/0314540000" target="_blank">0314540000</a></p>
-</div>
-
-<div class="contact-card">
-<h3>🏙️ Home City</h3>
-<p>Faisalabad, Pakistan</p>
+<p><a href="https://wa.me/0312540000" target="_blank">0312540000</a></p>
 </div>
 
 <div class="contact-card">
 <h3>🎓 University</h3>
 <p>UET Faisalabad</p>
 </div>
+
+
 
 </div>
