@@ -6,7 +6,7 @@ title: Home
 # 👋 Hi, I'm Umar
 
 My name is Umar, and I am currently studying **BS Computer Engineering** at UET Faisalabad.  
-I am based in Faisalabad and currently in my second semester.
+I live in Faisalabad and currently studing in second semester.
 I have a strong interest in technology and continuously work on improving my skills.
 ---
 
