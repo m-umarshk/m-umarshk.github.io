@@ -63,8 +63,6 @@ title: Home
 - 🤖 Machine Learning (Basics)
 - 🐍 Python
 - 💻 C#
-- 🎨 CSS
-- ⚡ JavaScript
 - 🧠 Problem Solving
 
 ---
