@@ -8,26 +8,26 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-show_excerpts: true       # Show excerpts on homepage
-show_frame: true          # Display frame on large screens
-show_sidebar: false       # Disable sidebar
-show_minimal: false       # Keep normal layout
+show_excerpts: true
+show_frame: true
+show_sidebar: false
+show_minimal: false
 
 # Navigation Menu
 navigation:
-  - {file: "archive.html", sidebaricon: "🏠"}
-  - {file: "README.md", sidebaricon: "📇"}
+  - {file: "archive.html"}          # sidebaricon hata diya
+  - {file: "README.md"}             # sidebaricon hata diya
+  - {file: "contact.md"}            # Contact page add kiya
 
-# External Links with icons (using emojis for full compatibility)
+# External Links
 external:
-  - {title: Mail, icon: "📧", url: "mailto:umarshk466742@gmail.com"}
-  - {title: GitHub, icon: "🐙", url: "https://github.com/your-github-username"}
+  - {title: Mail, icon: "✉", url: "mailto:umarshk466742@gmail.com"}
+  - {title: GitHub, icon: "⚡", url: "https://github.com/your-github-username"}
+  - {title: WhatsApp, icon: "💬", url: "https://wa.me/923125400000"}
   - {title: Subscribe, icon: "📡", url: "/feed.xml"}
 
-# Comments (optional)
+# Comments
 comments:
-#  disqus_shortname: ""    # Uncomment and set if using Disqus
-#  isso_domain: ""         # Uncomment and set if using Isso comments
 
 # Plugins
 plugins:
