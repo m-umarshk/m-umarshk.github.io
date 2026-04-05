@@ -15,15 +15,14 @@ show_minimal: false
 
 # Navigation Menu
 navigation:
-  - {file: "archive.html"}
   - {file: "about.md"}
   - {file: "contact.md"}
 
 # External Links
 external:
   - {title: Mail, icon: "✉", url: "mailto:umarshk466742@gmail.com"}
-  - {title: GitHub, icon: "⚡", url: "https://github.com/your-github-username"}
-  - {title: WhatsApp, icon: "💬", url: "https://wa.me/923125400000"}
+  - {title: GitHub, icon: "⚡", url: "https://github.com/m-umarshk"}
+  - {title: WhatsApp, icon: "💬", url: "https://wa.me/923124540000"}
   - {title: Subscribe, icon: "📡", url: "/feed.xml"}
 
 # Plugins
