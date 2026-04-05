@@ -39,6 +39,9 @@ permalink: /semester1/
     margin-bottom: 15px;
     border-bottom: 2px solid #f4f6f9;
     padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
   .info-section p { line-height: 1.8; color: #555; font-size: 15px; }
   .subjects-grid {
@@ -54,7 +57,8 @@ permalink: /semester1/
     padding: 15px 12px;
     text-align: center;
   }
-  .subject-card .icon { font-size: 26px; }
+  .subject-card .icon { display: flex; justify-content: center; align-items: center; }
+  .subject-card .icon svg { width: 32px; height: 32px; }
   .subject-card .name {
     font-size: 13px;
     font-weight: bold;
@@ -97,66 +101,122 @@ permalink: /semester1/
 </div>
 
 <div class="info-section">
-  <h2>📖 About This Semester</h2>
-  <p>My first semester at UET Faisalabad was a life-changing experience. Moving into the hostel, attending university for the first time, making new friends, and learning new subjects all at once was both exciting and challenging. From struggling with Calculus and Physics to writing my first Python programs, every week taught me something new. I even completed a Machine Learning project in my very first semester, which gave me great confidence and motivation to keep growing.</p>
+  <h2>
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+    </svg>
+    About This Semester
+  </h2>
+  <p>My first semester at UET Faisalabad was a life-changing experience. As a day scholar, I had to travel daily by bus, which taught me discipline, time management, and consistency. Attending university for the first time, meeting new people, and studying new subjects all at once was both exciting and challenging. From struggling with Calculus and Physics to writing my first Python programs, every week brought new learning opportunities. I also completed a Machine Learning project in my very first semester, which boosted my confidence and motivated me to keep improving.</p>
 
   <div class="subjects-grid">
+
     <div class="subject-card">
-      <div class="icon">💻</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
+        </svg>
+      </div>
       <div class="name">Programming Fundamentals</div>
       <div class="type">Theory</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">📐</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="19" y1="5" x2="5" y2="19"/><circle cx="6.5" cy="6.5" r="2.5"/><circle cx="17.5" cy="17.5" r="2.5"/>
+        </svg>
+      </div>
       <div class="name">Calculus</div>
       <div class="type">Theory</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">🧮</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/>
+        </svg>
+      </div>
       <div class="name">Discrete Mathematics</div>
       <div class="type">Theory</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">🖥️</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
+        </svg>
+      </div>
       <div class="name">AICT</div>
       <div class="type">Theory</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">⚛️</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+        </svg>
+      </div>
       <div class="name">Applied Physics</div>
       <div class="type">Theory</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">📖</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+        </svg>
+      </div>
       <div class="name">Fahm-e-Quran</div>
       <div class="type">Theory</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">🔬</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v11m0 0H5m4 0h10m-10 0v4a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-4m0 0H9"/>
+        </svg>
+      </div>
       <div class="name">Lab - PF</div>
       <div class="type">Lab</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">💾</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
+        </svg>
+      </div>
       <div class="name">Lab - AICT</div>
       <div class="type">Lab</div>
     </div>
+
     <div class="subject-card">
-      <div class="icon">🧪</div>
+      <div class="icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 3l-6 18"/><path d="M15 3l6 18"/><path d="M4 9h16"/><path d="M3 15h16"/>
+        </svg>
+      </div>
       <div class="name">Lab - Physics</div>
       <div class="type">Lab</div>
     </div>
+
   </div>
 </div>
 
 <div class="info-section">
-  <h2>📝 Posts</h2>
+  <h2>
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
+    </svg>
+    Posts
+  </h2>
   {% assign sem1_posts = site.posts | where_exp: "post", "post.tags contains 'semester1'" %}
   {% if sem1_posts.size > 0 %}
     {% for post in sem1_posts %}
     <div class="post-card">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="post-date">📅 {{ post.date | date: "%B %d, %Y" }}</p>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
       <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
       <a class="read-more" href="{{ post.url }}">Read More →</a>
     </div>
