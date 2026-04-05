@@ -15,9 +15,9 @@ show_minimal: false
 
 # Navigation Menu
 navigation:
-  - {file: "archive.html"}          # sidebaricon hata diya
-  - {file: "README.md"}             # sidebaricon hata diya
-  - {file: "contact.md"}            # Contact page add kiya
+  - {file: "archive.html"}
+  - {file: "about.md"}
+  - {file: "contact.md"}
 
 # External Links
 external:
@@ -25,9 +25,6 @@ external:
   - {title: GitHub, icon: "⚡", url: "https://github.com/your-github-username"}
   - {title: WhatsApp, icon: "💬", url: "https://wa.me/923125400000"}
   - {title: Subscribe, icon: "📡", url: "/feed.xml"}
-
-# Comments
-comments:
 
 # Plugins
 plugins:
