@@ -17,6 +17,7 @@ show_minimal: false
 navigation:
   - {file: "about.md"}
   - {file: "contact.md"}
+  - {file: "my journey.md"}
 
 # External Links
 external:
