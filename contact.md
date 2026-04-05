@@ -68,7 +68,7 @@ title: Contact
       </svg>
     </div>
     <h3>GitHub</h3>
-    <p><a href="https://github.com/your-github-username" target="_blank">your-github-username</a></p>
+    <p><a href="https://github.com/APKA-USERNAME-YAHAN" target="_blank">APKA-USERNAME-YAHAN</a></p>
   </div>
 
   <div class="contact-card">
@@ -78,7 +78,7 @@ title: Contact
       </svg>
     </div>
     <h3>WhatsApp</h3>
-    <p><a href="https://wa.me/0312540000" target="_blank">0312540000</a></p>
+    <p><a href="https://wa.me/923125400000" target="_blank">0312-5400000</a></p>
   </div>
 
   <div class="contact-card">
