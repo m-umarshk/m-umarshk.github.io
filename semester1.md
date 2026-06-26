@@ -2,7 +2,7 @@
 
 <h2>My First Day at University as a Day Scholar</h2>
 
-<img src="/assets/images/first-day.jpg"
+<img src="/assets/images/first-day.jpg.jpeg"
 style="width:100%;border-radius:12px;margin-bottom:20px;">
 
 <p>
