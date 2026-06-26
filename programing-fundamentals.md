@@ -11,7 +11,7 @@ tags: [semester1]
 
 # Programming Fundamentals – My First Programming Course
 
-<img src="/assets/images/programming-fundamentals.jpg"
+<img src="/assets/images/programming-fundamentals.jpeg"
 alt="Programming Fundamentals"
 style="width:100%; border-radius:12px; margin-bottom:20px;">
 
