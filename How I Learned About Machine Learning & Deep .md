@@ -3,7 +3,7 @@
 layout: post
 title: "How I Learned About Machine Learning & Deep Learning"
 date: 2026-06-27
-permalink: /machine-learning/
+permalink: /How I Learned About Machine Learning & Deep/
 tags: [semester1, machine-learning, deep-learning, python]
 ---
 
