@@ -1,10 +1,11 @@
 
 ---
+---
 layout: post
-title: "python-programming"
+title: "My First Experience with Python Programming"
 date: 2026-06-27
-permalink: /How I Learned About Machine Learning & Deep/
-tags: [semester1, machine-learning, deep-learning, python]
+permalink: /python-programming/
+tags: [semester1, python, programming]
 ---
 
 # How I Learned About Machine Learning & Deep Learning
