@@ -3,7 +3,7 @@
 layout: post
 title: "My First Experience with Python Programming"
 date: 2026-06-27
-permalink: /my-first-experience-with-python-programming/
+permalink: /python-programming/
 tags: [semester1, python, programming]
 ---
 
