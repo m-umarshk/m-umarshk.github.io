@@ -8,7 +8,7 @@ tags: [semester2, machine-learning, dbms, python, project]
 
 # Chronic Kidney Disease Prediction – My DBMS and ML Project
 
-<img src="/assets/images/ckd-prediction.jpeg"
+<img src="/assets/images/ckd-prediction.png"
 alt="Chronic Kidney Disease Prediction"
 style="width:100%; border-radius:12px; margin-bottom:20px;">
 
