@@ -9,6 +9,12 @@ tags: [semester1, python, programming]
 
 # My First Experience with Python Programming
 
+<img src="/assets/images/my-first-experience-python.jpeg"
+alt="My First Experience with Python Programming"
+style="width:100%; border-radius:12px; margin-bottom:20px;">
+
+# My First Experience with Python Programming
+
 The moment I first opened a Python file on my screen, I honestly had no idea what I was looking at. Lines of text, strange symbols, and words I had never seen before filled the editor. Everything felt foreign, and for a brief moment I wondered whether I had made the right choice by joining Computer Engineering. That feeling of uncertainty, however, turned out to be just the beginning of one of the most rewarding journeys of my first semester.
 
 In those early weeks, Professor Dr. Bilal Ahmad made it clear that understanding the syntax of Python was the foundation of everything else. Rather than jumping straight into complex programs, he focused on teaching us how to read and write code correctly, how Python expects you to structure your statements, and why small mistakes like missing a colon or wrong indentation can break everything. This approach was different from what I had imagined. I expected to be writing big programs, but instead I was learning how to write a single correct line, and that made all the difference. Dr. Bilal's method of teaching syntax first gave me a mental framework that I could build on as the semester progressed.
