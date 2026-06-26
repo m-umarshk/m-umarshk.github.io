@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "How I Learned About Machine Learning & Deep Learning"
+title: "python-programming"
 date: 2026-06-27
 permalink: /How I Learned About Machine Learning & Deep/
 tags: [semester1, machine-learning, deep-learning, python]
