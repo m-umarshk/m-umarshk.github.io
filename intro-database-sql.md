@@ -8,9 +8,6 @@ tags: [semester2, database, sql, mysql]
 
 # Introduction to Database and SQL
 
-<img src="/assets/images/intro-database-sql.jpeg"
-alt="Introduction to Database and SQL"
-style="width:100%; border-radius:12px; margin-bottom:20px;">
 
 One of the most interesting subjects I studied during my second semester at UET Faisalabad was Database Systems. At first, I thought databases would be very difficult because there were many new concepts and technical terms. However, as the semester progressed, I realized that databases are one of the most important parts of modern software systems. Almost every application we use today depends on databases — social media platforms, online shopping websites, banking systems, hospitals, universities, and many other systems use databases to store and manage information. Learning how databases work gave me a better understanding of how real-world software systems operate behind the scenes.
 
