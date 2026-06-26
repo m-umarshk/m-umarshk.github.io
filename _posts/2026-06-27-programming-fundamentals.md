@@ -2,6 +2,7 @@
 layout: post
 title: "Programming Fundamentals – My First Programming Course"
 date: 2026-06-27
+permalink: /programming-fundamentals/
 tags: [semester1]
 ---
 
