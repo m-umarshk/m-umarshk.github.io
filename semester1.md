@@ -1,227 +1,61 @@
----
-layout: default
-title: Semester 1
-permalink: /semester1/
----
-
-<style>
-  .sem-header {
-    background: linear-gradient(135deg, #1a1a2e, #16213e);
-    color: white;
-    border-radius: 15px;
-    padding: 40px;
-    margin-bottom: 30px;
-    text-align: center;
-  }
-  .sem-header h1 { font-size: 32px; margin-bottom: 10px; }
-  .sem-header p { color: #aaa; font-size: 16px; }
-  .back-btn {
-    display: inline-block;
-    margin-bottom: 25px;
-    background: #e94560;
-    color: white;
-    padding: 8px 18px;
-    border-radius: 20px;
-    text-decoration: none;
-    font-size: 14px;
-  }
-  .back-btn:hover { background: #c73652; }
-  .info-section {
-    background: white;
-    border-radius: 12px;
-    padding: 30px;
-    margin-bottom: 20px;
-    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
-  }
-  .info-section h2 {
-    color: #e94560;
-    font-size: 20px;
-    margin-bottom: 15px;
-    border-bottom: 2px solid #f4f6f9;
-    padding-bottom: 10px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .info-section p { line-height: 1.8; color: #555; font-size: 15px; }
-  .subjects-grid {
-    display: grid !important;
-    grid-template-columns: repeat(3, 1fr) !important;
-    gap: 12px !important;
-    margin-top: 20px;
-  }
-  .subject-card {
-    background: #f9f9f9;
-    border-left: 4px solid #e94560;
-    border-radius: 8px;
-    padding: 15px 12px;
-    text-align: center;
-  }
-  .subject-card .icon { display: flex; justify-content: center; align-items: center; }
-  .subject-card .icon svg { width: 32px; height: 32px; }
-  .subject-card .name {
-    font-size: 13px;
-    font-weight: bold;
-    color: #1a1a2e;
-    margin-top: 8px;
-  }
-  .subject-card .type {
-    font-size: 11px;
-    color: #888;
-    margin-top: 3px;
-  }
-  .post-card {
-    background: white;
-    border-radius: 12px;
-    padding: 25px 30px;
-    margin-bottom: 20px;
-    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
-    border-left: 4px solid #e94560;
-  }
-  .post-card h2 { font-size: 20px; margin-bottom: 8px; }
-  .post-card h2 a { color: #1a1a2e; text-decoration: none; }
-  .post-card h2 a:hover { color: #e94560; }
-  .post-date { color: #888; font-size: 13px; margin-bottom: 10px; }
-  .post-excerpt { color: #555; font-size: 14px; line-height: 1.7; }
-  .read-more {
-    display: inline-block;
-    margin-top: 12px;
-    color: #e94560;
-    font-size: 14px;
-    font-weight: bold;
-    text-decoration: none;
-  }
-</style>
-
-<a class="back-btn" href="/myjourney/">← Back to My Journey</a>
-
-<div class="sem-header">
-  <h1>Semester 1</h1>
-  <p>My first semester at UET Faisalabad</p>
-</div>
-
 <div class="info-section">
-  <h2>
-    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
-    </svg>
-    About This Semester
-  </h2>
-  <p>My first semester at UET Faisalabad was a life-changing experience. As a day scholar, I had to travel daily by bus, which taught me discipline, time management, and consistency. Attending university for the first time, meeting new people, and studying new subjects all at once was both exciting and challenging. From struggling with Calculus and Physics to writing my first Python programs, every week brought new learning opportunities. I also completed a Machine Learning project in my very first semester, which boosted my confidence and motivated me to keep improving.</p>
 
-  <div class="subjects-grid">
+<h2>My First Day at University as a Day Scholar</h2>
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
-        </svg>
-      </div>
-      <div class="name">Programming Fundamentals</div>
-      <div class="type">Theory</div>
-    </div>
+<img src="/assets/images/semester1/first-day.jpg"
+style="width:100%;border-radius:12px;margin-bottom:20px;">
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <line x1="19" y1="5" x2="5" y2="19"/><circle cx="6.5" cy="6.5" r="2.5"/><circle cx="17.5" cy="17.5" r="2.5"/>
-        </svg>
-      </div>
-      <div class="name">Calculus</div>
-      <div class="type">Theory</div>
-    </div>
+<p>
+My first day at university as a Computer Engineering student was one of the most exciting and unforgettable experiences of my life. It was the day I officially began my journey toward achieving my dream of becoming a successful computer engineer. I had imagined this day for many years, and when it finally arrived, I felt a mixture of excitement, happiness, and nervousness. As a day scholar, I knew that my routine would be different from hostel students because I had to travel to the university every day. Although the journey required extra time and effort, I believed that every step would bring me closer to my goals.
+</p>
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/>
-        </svg>
-      </div>
-      <div class="name">Discrete Mathematics</div>
-      <div class="type">Theory</div>
-    </div>
+<p>
+I woke up early in the morning, much earlier than I usually did. I carefully got ready, wearing neat clothes and carrying a new backpack filled with notebooks, pens, documents, and a laptop because I knew that technology would become an important part of my university life. Before leaving, my parents wished me success and reminded me to stay focused, work hard, and never stop learning. Their encouragement filled me with confidence and motivated me to give my best from the very first day.
+</p>
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
-        </svg>
-      </div>
-      <div class="name">AICT</div>
-      <div class="type">Theory</div>
-    </div>
+<p>
+Since I am a day scholar, my journey started with a walk of about one kilometer from my home to the nearest bus stop. The weather was pleasant, and the cool morning breeze made the walk enjoyable. While walking, I kept imagining what my university would look like and what kind of people I would meet. I wondered about my classmates, professors, laboratories, and the subjects I would study. Every step toward the bus stop reminded me that I was beginning a completely new chapter in my life. Although carrying my backpack while walking for a kilometer felt a little tiring, I knew that success always requires dedication and effort.
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
-        </svg>
-      </div>
-      <div class="name">Applied Physics</div>
-      <div class="type">Theory</div>
-    </div>
+When I reached the bus stop, several students were already waiting for the university bus. Some looked as nervous as I was, while others seemed relaxed and confident. After a short wait, the university bus arrived, and I found a seat near the window. During the journey, I watched the busy roads, buildings, and people starting their daily routines. I also noticed many students traveling to different universities and colleges. It made me realize that education connects thousands of young people who share the same dream of building a better future.
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
-        </svg>
-      </div>
-      <div class="name">Fahm-e-Quran</div>
-      <div class="type">Theory</div>
-    </div>
+As soon as the university bus entered the campus, I was amazed by its beauty. The modern academic buildings, green lawns, well-maintained roads, and peaceful environment created an unforgettable first impression. Everything looked professional and inspiring. I felt proud to be a student there and imagined spending the next four years learning, growing, and preparing for my future career. Walking through the campus made me realize that I had finally become part of a community dedicated to knowledge, innovation, and personal development.
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v11m0 0H5m4 0h10m-10 0v4a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-4m0 0H9"/>
-        </svg>
-      </div>
-      <div class="name">Lab - PF</div>
-      <div class="type">Lab</div>
-    </div>
+After reaching the Computer Engineering department, I checked the classroom schedule and entered my assigned classroom. Inside, I saw many students who were just as excited and nervous as I was. I introduced myself to a few classmates, and we quickly started talking about our backgrounds, interests, and reasons for choosing Computer Engineering. Many of us shared a passion for computers, programming, robotics, artificial intelligence, and modern technology. It felt great to meet people who had similar dreams and interests. I realized that these classmates would become my teammates, friends, and learning partners throughout my university journey.
+</p>
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
-        </svg>
-      </div>
-      <div class="name">Lab - AICT</div>
-      <div class="type">Lab</div>
-    </div>
+<p>
+  As a Computer Engineering student, I met new classmates who shared similar interests in programming, technology, and innovation. We introduced ourselves and quickly became comfortable with each other, creating the foundation for future friendships and teamwork.
 
-    <div class="subject-card">
-      <div class="icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M9 3l-6 18"/><path d="M15 3l6 18"/><path d="M4 9h16"/><path d="M3 15h16"/>
-        </svg>
-      </div>
-      <div class="name">Lab - Physics</div>
-      <div class="type">Lab</div>
-    </div>
+Our professors welcomed us and explained the university's academic system, course structure, attendance policies, and the importance of discipline, problem-solving, and continuous learning. They encouraged us to develop both technical and practical skills throughout our degree.
 
-  </div>
-</div>
+We were introduced to our first-semester courses, including Programming Fundamentals, Calculus, Applied Physics, Functional English, and Introduction to Computer Engineering. Programming Fundamentals was the subject that excited me the most because I wanted to learn coding and software development.
 
-<div class="info-section">
-  <h2>
-    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e94560" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
-    </svg>
-    Posts
-  </h2>
-  {% assign sem1_posts = site.posts | where_exp: "post", "post.tags contains 'semester1'" %}
-  {% if sem1_posts.size > 0 %}
-    {% for post in sem1_posts %}
-    <div class="post-card">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-      <a class="read-more" href="{{ post.url }}">Read More →</a>
-    </div>
-    {% endfor %}
-  {% else %}
-    <p style="color:#888;">No posts added yet.</p>
-  {% endif %}
+One of the highlights of the day was visiting the computer and electronics laboratories. The modern equipment and advanced facilities inspired me to imagine working on programming projects, electronic circuits, and innovative technologies in the future.
+
+The university library also impressed me with its large collection of books and digital resources. I realized it would become an important place for studying, conducting research, and improving my knowledge throughout my academic journey.
+
+During lunch, I spent time with my new classmates in the cafeteria. We discussed our career goals, such as becoming software developers, AI engineers, cybersecurity experts, and robotics engineers, which motivated me to work harder toward my own ambitions.
+
+The introductory lectures helped me understand that Computer Engineering requires dedication, logical thinking, and practical experience. Our instructors encouraged us to participate in workshops, coding competitions, and technical events to strengthen our skills.
+
+At the end of the day, I traveled home feeling tired but extremely happy. I shared my experiences with my family and realized that my first day at university marked the beginning of an exciting journey toward becoming a successful Computer Engineer through hard work, determination, and continuous learning.
+</p>
+<!-- Baaki saara article -->
+
+<hr>
+
+<h3>Continue My Semester 1 Journey</h3>
+
+<ul>
+<li><a href="/programming-fundamentals/">Programming Fundamentals</a></li>
+
+<li><a href="/python-programming/">My First Experience with Python Programming</a></li>
+
+<li><a href="/machine-learning/">How I Learned About Machine Learning & Deep Learning</a></li>
+
+<li><a href="/pf-exhibition/">Programming Fundamentals Exhibition</a></li>
+
+<li><a href="/last-day-sem1/">My Last Day of First Semester</a></li>
+</ul>
+
 </div>
